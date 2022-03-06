@@ -1,5 +1,5 @@
 ### Setup
-install SBT
+install Java 11 and SBT
 
 ### Run
 In a terminal, open the source directory and run:
