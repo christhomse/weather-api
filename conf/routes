@@ -1,0 +1,3 @@
+# Routes
+
+GET     /weather                    controllers.HomeController.getWeather(lat: Double, long: Double)
